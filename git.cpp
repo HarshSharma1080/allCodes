@@ -6,6 +6,7 @@ int main(){
     cout << age << endl;
     cout << "this file is created the track using git and learn more about the git" << endl;
     cout << "hello git" << endl;
+    cout << "hi git how are you" << endl;
 
 
 
