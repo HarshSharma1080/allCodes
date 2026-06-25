@@ -32,6 +32,6 @@ int main() {
     printf("the real part of z is %d, and the img part of z is %d\n", z.real, z.img);
     cout << "the real part of the z1 is: " << z1.real << endl;
     cout << "the img part of the z2 is: " << z1.img << endl;
-    printf("the area of a rectangle is %d", r.length * r.breadth);
+    printf("the area rectangle is %d", r.length * r.breadth);
     return 0;
 }
