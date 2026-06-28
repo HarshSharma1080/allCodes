@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
 int main(){
-    cout << " hi this is file created to demonstrate the merge conflicts" << endl;    
+    cout << "this is to demonstrate the merge conflicts, edited by the dev-jsm" << endl;    
 }
 
