@@ -1,0 +1,8 @@
+use this website when you want to run the code line by line like a debugger with 
+low level view like the memory address byte level view and visualizing how it works. 
+
+c tutor
+on the website of python tutor
+
+an screenshot of the website is attached in this folder. 
+do chcek it out for understaning and visualizing low level stuff like pointers and all related stuff.
