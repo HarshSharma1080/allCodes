@@ -7,4 +7,3 @@ int add(int a, int b){
 int main(){
     cout << add(2, 30) << endl;
 }
-
